@@ -17,9 +17,7 @@
 
 #### Plugin version
 
-    cordova plugin version | grep phonegap-plugin-push   # e.g. 1.5.3
-
-#### Sample Push Data Payload
+    cordova plugin version
 
 #### Sample Code that illustrates the problem
 
